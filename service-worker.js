@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/youpijob-ui-doc/precache-manifest.4be403a17787668f88b5838ad0ac0ed3.js"
+  "/youpijob-ui-doc/precache-manifest.c4ef6ad658b43fa297f7fdeb1128a9a4.js"
 );
 
 self.addEventListener('message', (event) => {

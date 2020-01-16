@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/youpijob-ui-doc/static/css/main.1870f0d0.chunk.css",
-    "main.js": "/youpijob-ui-doc/static/js/main.f6bf3f13.chunk.js",
-    "main.js.map": "/youpijob-ui-doc/static/js/main.f6bf3f13.chunk.js.map",
+    "main.js": "/youpijob-ui-doc/static/js/main.d9a58a87.chunk.js",
+    "main.js.map": "/youpijob-ui-doc/static/js/main.d9a58a87.chunk.js.map",
     "runtime-main.js": "/youpijob-ui-doc/static/js/runtime-main.27d038e4.js",
     "runtime-main.js.map": "/youpijob-ui-doc/static/js/runtime-main.27d038e4.js.map",
     "static/css/2.f6e6f51f.chunk.css": "/youpijob-ui-doc/static/css/2.f6e6f51f.chunk.css",
     "static/js/2.89fa21e8.chunk.js": "/youpijob-ui-doc/static/js/2.89fa21e8.chunk.js",
     "static/js/2.89fa21e8.chunk.js.map": "/youpijob-ui-doc/static/js/2.89fa21e8.chunk.js.map",
     "index.html": "/youpijob-ui-doc/index.html",
-    "precache-manifest.4be403a17787668f88b5838ad0ac0ed3.js": "/youpijob-ui-doc/precache-manifest.4be403a17787668f88b5838ad0ac0ed3.js",
+    "precache-manifest.c4ef6ad658b43fa297f7fdeb1128a9a4.js": "/youpijob-ui-doc/precache-manifest.c4ef6ad658b43fa297f7fdeb1128a9a4.js",
     "service-worker.js": "/youpijob-ui-doc/service-worker.js",
     "static/css/2.f6e6f51f.chunk.css.map": "/youpijob-ui-doc/static/css/2.f6e6f51f.chunk.css.map",
     "static/css/main.1870f0d0.chunk.css.map": "/youpijob-ui-doc/static/css/main.1870f0d0.chunk.css.map",
@@ -23,6 +23,6 @@
     "static/css/2.f6e6f51f.chunk.css",
     "static/js/2.89fa21e8.chunk.js",
     "static/css/main.1870f0d0.chunk.css",
-    "static/js/main.f6bf3f13.chunk.js"
+    "static/js/main.d9a58a87.chunk.js"
   ]
 }
