@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0817d7b166e80d79c25cb750c1f5d9cc",
+    "revision": "81cfc0feffd4c91e0e7c7a8d1e4531f8",
     "url": "/youpijob-ui-doc/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youpijob-ui-doc/static/css/2.f6e6f51f.chunk.css"
   },
   {
-    "revision": "d52ef6aada423ffc76e3",
+    "revision": "5cf1f397526f41db8475",
     "url": "/youpijob-ui-doc/static/css/main.1870f0d0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/youpijob-ui-doc/static/js/2.89fa21e8.chunk.js.LICENSE"
   },
   {
-    "revision": "d52ef6aada423ffc76e3",
-    "url": "/youpijob-ui-doc/static/js/main.d9a58a87.chunk.js"
+    "revision": "5cf1f397526f41db8475",
+    "url": "/youpijob-ui-doc/static/js/main.10089c8a.chunk.js"
   },
   {
     "revision": "f181983918b0b63525bb",
