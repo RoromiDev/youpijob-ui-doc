@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/youpijob-ui-doc/static/css/main.1870f0d0.chunk.css",
-    "main.js": "/youpijob-ui-doc/static/js/main.10089c8a.chunk.js",
-    "main.js.map": "/youpijob-ui-doc/static/js/main.10089c8a.chunk.js.map",
+    "main.css": "/youpijob-ui-doc/static/css/main.024e711b.chunk.css",
+    "main.js": "/youpijob-ui-doc/static/js/main.246d7588.chunk.js",
+    "main.js.map": "/youpijob-ui-doc/static/js/main.246d7588.chunk.js.map",
     "runtime-main.js": "/youpijob-ui-doc/static/js/runtime-main.27d038e4.js",
     "runtime-main.js.map": "/youpijob-ui-doc/static/js/runtime-main.27d038e4.js.map",
     "static/css/2.f6e6f51f.chunk.css": "/youpijob-ui-doc/static/css/2.f6e6f51f.chunk.css",
-    "static/js/2.89fa21e8.chunk.js": "/youpijob-ui-doc/static/js/2.89fa21e8.chunk.js",
-    "static/js/2.89fa21e8.chunk.js.map": "/youpijob-ui-doc/static/js/2.89fa21e8.chunk.js.map",
+    "static/js/2.b0bc0bf6.chunk.js": "/youpijob-ui-doc/static/js/2.b0bc0bf6.chunk.js",
+    "static/js/2.b0bc0bf6.chunk.js.map": "/youpijob-ui-doc/static/js/2.b0bc0bf6.chunk.js.map",
     "index.html": "/youpijob-ui-doc/index.html",
-    "precache-manifest.3895bd2c8d7cca0ab4554720f029f28c.js": "/youpijob-ui-doc/precache-manifest.3895bd2c8d7cca0ab4554720f029f28c.js",
+    "precache-manifest.7402f86a7e89df28af68520b84ebe1ee.js": "/youpijob-ui-doc/precache-manifest.7402f86a7e89df28af68520b84ebe1ee.js",
     "service-worker.js": "/youpijob-ui-doc/service-worker.js",
     "static/css/2.f6e6f51f.chunk.css.map": "/youpijob-ui-doc/static/css/2.f6e6f51f.chunk.css.map",
-    "static/css/main.1870f0d0.chunk.css.map": "/youpijob-ui-doc/static/css/main.1870f0d0.chunk.css.map",
-    "static/js/2.89fa21e8.chunk.js.LICENSE": "/youpijob-ui-doc/static/js/2.89fa21e8.chunk.js.LICENSE",
+    "static/css/main.024e711b.chunk.css.map": "/youpijob-ui-doc/static/css/main.024e711b.chunk.css.map",
+    "static/js/2.b0bc0bf6.chunk.js.LICENSE": "/youpijob-ui-doc/static/js/2.b0bc0bf6.chunk.js.LICENSE",
     "static/media/Button.png": "/youpijob-ui-doc/static/media/Button.b3d7e5e8.png",
+    "static/media/Loader.png": "/youpijob-ui-doc/static/media/Loader.df9839bf.png",
     "static/media/Selectable.png": "/youpijob-ui-doc/static/media/Selectable.44d91f54.png",
     "static/media/Text.png": "/youpijob-ui-doc/static/media/Text.3c23e728.png"
   },
   "entrypoints": [
     "static/js/runtime-main.27d038e4.js",
     "static/css/2.f6e6f51f.chunk.css",
-    "static/js/2.89fa21e8.chunk.js",
-    "static/css/main.1870f0d0.chunk.css",
-    "static/js/main.10089c8a.chunk.js"
+    "static/js/2.b0bc0bf6.chunk.js",
+    "static/css/main.024e711b.chunk.css",
+    "static/js/main.246d7588.chunk.js"
   ]
 }
